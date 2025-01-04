@@ -1,3 +1,3 @@
 # Research-Paper-Scraper
 
-Kalau ada bug bilang aja, lebih bagus kalau diperbaiki hehe
+Kalau ada bug bilang aja, lebih bagus kalau diperbaiki dan minta pull request hehe
